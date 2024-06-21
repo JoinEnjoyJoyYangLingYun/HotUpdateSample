@@ -1,0 +1,30 @@
+ManifestFileVersion: 0
+CRC: 593652021
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 2444eb065d194517daaf08b2d60b4e70
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 4db82f4e618e4630b2fa8228e9c6d8d1
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Scenes/Cube.prefab
+Dependencies:
+- "D:/unityproject/project/\u65B0\u5EFA\u6587\u4EF6\u5939/HotUpdateSample/Assets/StreamingAssets/BuildOutput/a37c275a94af32cb252570a890727b3a"

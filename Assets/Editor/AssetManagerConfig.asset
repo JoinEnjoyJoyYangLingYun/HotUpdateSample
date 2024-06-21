@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: db9da91a9f0ff264f830c5427ce0c57f, type: 3}
+  m_Name: AssetManagerConfig
+  m_EditorClassIdentifier: 
+  LogoTexture: {fileID: 2800000, guid: 4822abdb86486ef4c81b96ebeaac3ed7, type: 3}
+  ManagerTitle: AssetManager
+  AssetBundleToolVersion: 100
+  CurrentBuildVersion: 100
+  AssetBundleOutputPattern: 1
+  InCrementalMode: 1
+  EditorPackageInfos:
+  - PackageName: A
+    Assets:
+    - {fileID: 1116958729400348661, guid: e9fb367d9c2313141b7ea4d81c3681b8, type: 3}
+  - PackageName: B
+    Assets:
+    - {fileID: 7761247408302855690, guid: e5e711b4366a7f6419ca6b8ab3878244, type: 3}
+    - {fileID: 6187920244059985466, guid: ef26cbdf58979ce418ebc06b75a59ac4, type: 3}
+  InvalidExtentionName:
+  - .meta
+  - .cs
